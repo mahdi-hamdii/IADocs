@@ -16,3 +16,6 @@
 - **Context Window**: The maximum number of words the model can use to both generate response and refer to for keeping a history and accessing new data.
 ## What are GPT and ChatGPT:
 - **GPT**: `Generative Pre-Trained Transformers` is the LLM developped by OpenAI.  
+## [What is Transformer](./Transformer.md)
+## Resources:
+- [LLM & GPT: What are they and how do they work?](https://medium.com/@thomas.latterner/llm-gpt-what-are-they-and-how-do-they-work-2df1b5925f6)
